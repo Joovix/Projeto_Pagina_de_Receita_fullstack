@@ -1,3 +1,10 @@
+:root {
+    font-family: "Alice", sans-serif;
+    line-height: 150%;
+    font-size: 16px;
+    color: #573A37;
+}
+
 body {
   background-image: url(./assets/Página\ de\ receita.jpg);
   background-repeat: no-repeat;
@@ -22,25 +29,15 @@ img {
 
 .title {
   font-size: 40px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #573A37;
-  font-weight: 300;
+  line-height: 140%;
 }
 
 .subtitle {
   font-size: 24;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #573A37;
-  font-weight: 300;
 }
 
-.text {
-  font-size: 16px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #573A37;
-  font-weight: 300;
-}
 
 footer {
   margin:auto;
+  color: #F0E8C2;
 }
